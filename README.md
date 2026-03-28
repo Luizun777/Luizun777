@@ -9,7 +9,7 @@
 Soy un **desarrollador Full Stack** apasionado por crear experiencias web modernas, funcionales y escalables. Me encanta resolver problemas complejos con código limpio y mantener un enfoque constantemente en la experiencia del usuario.
 
 ```
-💻 Desarrollando soluciones web desde [año]
+💻 Desarrollando soluciones web desde 2017
 🎯 Enfoque: Calidad • Rendimiento • Escalabilidad
 🌱 Siempre aprendiendo nuevas tecnologías
 ```
