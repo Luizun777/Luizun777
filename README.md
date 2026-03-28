@@ -55,21 +55,6 @@ Soy un **desarrollador Full Stack** apasionado por crear experiencias web modern
 
 ---
 
-## 📊 NIVEL DE EXPERIENCIA
-
-```
-React        ████████████████████░░░░░░░░░░░  85%
-Next.js      ██████████████████████░░░░░░░░░  90%
-TypeScript   ███████████████████████░░░░░░░░  88%
-Node.js      ████████████████████░░░░░░░░░░░  80%
-PostgreSQL   ██████████████████░░░░░░░░░░░░░  78%
-MongoDB      ██████████████████░░░░░░░░░░░░░  78%
-CSS/Design   ████████████████████████░░░░░░░  92%
-Git/DevOps   ███████████████████░░░░░░░░░░░░  75%
-```
-
----
-
 ## 🎯 EXPERIENCIA LABORAL
 
 ### 🚀 Proyectos & Logros
