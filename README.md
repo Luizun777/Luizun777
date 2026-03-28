@@ -133,9 +133,9 @@ Git/DevOps   ███████████████████░░░�
 [![Twitter](https://img.shields.io/badge/Twitter-@luizun-1DA1F2?style=flat&logo=twitter)](https://twitter.com/luizun)
 [![Portfolio](https://img.shields.io/badge/Portfolio-luizun.dev-green?style=flat)](https://luizun-web-luizun777s-projects.vercel.app/)
 
-📧 **Email:** luizun@example.com  
+📧 **Email:** luisacosta360@gmail.com  
 🌐 **Website:** [luizun-web-luizun777s-projects.vercel.app](https://luizun-web-luizun777s-projects.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/luizun](https://linkedin.com/in/luizun)  
+<!-- 💼 **LinkedIn:** [linkedin.com/in/luizun](https://linkedin.com/in/luizun)  -->
 🐙 **GitHub:** [github.com/luizun777](https://github.com/luizun777)
 
 ---
