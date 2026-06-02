@@ -144,9 +144,8 @@ const myphilosophy = {
 ## 🎮 DATOS CURIOSOS SOBRE MÍ
 
 - 🎮 Gamer casual en tiempos libres
-- 🎬 Fan de películas de ciencia ficción
-- 📚 Amante de los libros de desarrollo
-- 🚴 Ciclista ocasional
+- 🎬 Fan de películas de terror
+- 💪 GYM
 - 🎧 Siempre con música de fondo mientras programo
 - 🌙 Noctámbulo convertido a madrugador
 - ☕ Tomador serial de café
@@ -156,6 +155,7 @@ const myphilosophy = {
 ## 📚 RECURSOS FAVORITOS
 
 - 📖 MDN Web Docs
+- 🤖 Claude Code
 - 🎓 Frontend Masters
 - 💡 Dev.to
 - 🔧 Stack Overflow
