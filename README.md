@@ -105,9 +105,9 @@ Soy un **desarrollador Full Stack** apasionado por crear experiencias web modern
 |-----------|------------|
 | 🕐 Horario | Early morning coder ☀️ |
 | ⌨️ Editor | VS Code + Vim keybindings |
-| 📱 SO Favorito | macOS / Linux |
-| 🎵 Playlist | Lofi beats & Lo-Fi hip hop 🎧 |
-| ☕ Combustible | Café ☕ + Té 🍵 |
+| 📱 SO Favorito | Windows / Linux |
+| 🎵 Playlist | Power Metal + Anime Openings 🎧 |
+| ☕ Combustible | Café ☕ |
 
 ---
 
